@@ -1,7 +1,7 @@
-package de.salzfrei.manager.ColorManager;
+package ...;
 
 import com.google.common.base.Preconditions;
-import de.salzfrei.manager.ColorManager.Interpolator.Interpolator;
+import .Interpolator.Interpolator;
 import net.md_5.bungee.api.ChatColor;
 
 import javax.annotation.Nullable;
