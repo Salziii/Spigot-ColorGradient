@@ -1,4 +1,4 @@
-package de.salzfrei.manager.ColorManager.Interpolator;
+package ...;
 
 public class quadraticSlowDown implements Interpolator {
     @Override
